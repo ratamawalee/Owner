@@ -4,7 +4,7 @@ Markdown
 Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ratanawalee
 ====================================================================================================================================
-"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoZGJidzRhaDZhbHhyeXZ5
+
 
 
 * ✉️  You can contact me at [ratanawalee.w@ku.th](mailto:ratanawalee.w@ku.th)
